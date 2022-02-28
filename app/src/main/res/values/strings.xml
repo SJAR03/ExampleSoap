@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExampleSoap</string>
+    <string name="enter_input_1">Enter first number</string>
+    <string name="enter_input_2">Enter second number</string>
+    <string name="add">Add</string>
+    <string name="fill_field">Llene los espacios en blanco</string>
+    <string name="no_internet">No tiene acceso a internet</string>
+    <string name="result">Tu resultado es:</string>
+</resources>
